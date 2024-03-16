@@ -16,38 +16,22 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
-俺是一个博士生 ...
-
-My research interest includes ***. I have published ** papers 
-<a href='https://scholar.google.com/citations?user=mDtSmsEAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fcurya-wangyiyu%2Fcurya-wangyiyu.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
-
-<span class='anchor' id='-news'></span>
-# 🔥 个人近况
-- *2022.02*: &nbsp;🎉🎉 
-
-<span class='anchor' id='-publications'></span>
-# 📝 学术论文
-
-- ``AAAI 2022`` [End-to-End Transformer Based Model for Image Captioning](https://arxiv.org/abs/2203.15350), **Yiyu Wang**, Jungang Xu, Yingfei Sun \| [![](https://img.shields.io/github/stars/232525/PureT?style=social&label=PureT%20 Stars)](https://github.com/232525/PureT)
-
-- ``Neurocomputing 2022`` [A Visual Persistence Model for Image Captioning](https://www.sciencedirect.com/science/article/pii/S0925231221014922?via%3Dihub), **Yiyu Wang**, Jungang Xu, Yingfei Sun
-
-- ``ArXiv preprint`` [Image Captioning based on Deep Learning Methods: A Survey](https://arxiv.org/abs/1905.08110), **Yiyu Wang**, Jungang Xu, Yingfei Sun, Ben He
-
-<span class='anchor' id='-honors-and-awards'></span>
-# 🎖 荣誉奖项
-- NULL
+{% include_relative includes/intro.md %}
 
 <span class='anchor' id='-educations'></span>
-# 📖 教育经历
-- *2019.09 - 2024.06*, . 
-- *2014.09 - 2018.06*, . 
+{% include_relative includes/educations.md %}
+
+<span class='anchor' id='-news'></span>
+{% include_relative includes/news.md %}
+
+<span class='anchor' id='-publications'></span>
+{% include_relative includes/publications.md %}
 
 <span class='anchor' id='-internships'></span>
-# 💻 实习经历
-- *2022.08 - 2023.08*, ***, China.
+{% include_relative includes/internships.md %}
+
+<span class='anchor' id='-honors-and-awards'></span>
+{% include_relative includes/honors.md %}
 
 <span class='anchor' id='-others'></span>
-# 💬 其 他
-- NULL
+{% include_relative includes/others.md %}
