@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yiyu Wang (王义宇)"
+title                    : "王义宇"
 description              : "中国科学院大学"
 repository               : "curya-wangyiyu/curya-wangyiyu.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yiyu Wang (王义宇)"
+  name             : "王义宇"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "没人枪毙你，你就活着。"
-  location         : "Beijing, China"
+  location         : "北京"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=mDtSmsEAAAAJ"
