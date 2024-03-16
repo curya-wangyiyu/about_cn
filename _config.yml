@@ -22,9 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "王义宇"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "/images/android-chrome-512x512.png"
   bio              : "没人枪毙你，你就活着。"
-  location         : "北京"
+  location         : "中国北京"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=mDtSmsEAAAAJ"
