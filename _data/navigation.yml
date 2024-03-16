@@ -1,0 +1,22 @@
+# main links links
+main:
+  - title: "个人简介"
+    url: "/about_cn/#about-me"
+
+  - title: "个人近况"
+    url: "/about_cn/#-news"
+
+  - title: "学术论文"
+    url: "/about_cn/#-publications"
+
+  - title: "荣誉奖项"
+    url: "/about_cn/#-honors-and-awards"
+
+  - title: "教育经历"
+    url: "/about_cn/#-educations"
+
+  - title: "实习经历"
+    url: "/about_cn/#-internships"
+
+  - title: "其 他"
+    url: "/about_cn/#-invited-talks"
