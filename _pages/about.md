@@ -25,7 +25,18 @@ redirect_from:
 {% include_relative includes/news.md %}
 
 <span class='anchor' id='-publications'></span>
-{% include_relative includes/publications.md %}
+<!-- {% include_relative includes/publications.md %} -->
+<div id="publications">
+  <!-- 这里将会插入另一个repo的publications.md内容 -->
+</div>
+
+<script>
+fetch('https://raw.githubusercontent.com/curya-wangyiyu/curya-wangyiyu.github.io/main/_pages/includes/publications.md')
+  .then(response => response.text())
+  .then(text => {
+    document.getElementById('publications').innerHTML = text;
+  });
+</script>
 
 <span class='anchor' id='-internships'></span>
 {% include_relative includes/internships.md %}
