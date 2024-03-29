@@ -1,4 +1,4 @@
-# 📝 学术论文
+# 📝 Publications 
 
 - ``AAAI`` [End-to-End Transformer Based Model for Image Captioning](https://arxiv.org/abs/2203.15350). **Yiyu Wang**, Jungang Xu, Yingfei Sun. _Proceeding of AAAI Conference on Artificial Intelligence (AAAI)_, 2022 &nbsp; [![](https://img.shields.io/github/stars/232525/PureT?style=social&label=Stars)](https://github.com/232525/PureT)
 
@@ -6,6 +6,8 @@
 
 - ``IJCNN`` [CLIP-Driven Low-Cost Image Captioning](). **Yiyu Wang**, Jungang Xu, Yingfei Sun. _Proceedings of International Joint Conference on Neural Networks (IJCNN)_, 2024
 
-- ``ICANN`` [A Novel Image Captioning Method Based on Generative Adversarial Networks](https://link.springer.com/chapter/10.1007/978-3-030-30490-4_23). Yang Fan, Jungang Xu, Yingfei Sun, **Yiyu Wang**. _Proceeding of International Conference on Artificial Neural Networks (ICANN)_, 2019
+- ``ArXiv`` [Text Data-Centric Image Captioning with Interactive Prompts](https://arxiv.org/abs/2403.19193). **Yiyu Wang**, Hao Luo, Jungang Xu, Yingfei Sun, Fan Wang. _arXiv preprint: abs/2403.19193_, 2024
 
 - ``ArXiv`` [Image Captioning based on Deep Learning Methods: A Survey](https://arxiv.org/abs/1905.08110). **Yiyu Wang**, Jungang Xu, Yingfei Sun, Ben He. _arXiv preprint: abs/1905.08110_, 2019
+
+- ``ICANN`` [A Novel Image Captioning Method Based on Generative Adversarial Networks](https://link.springer.com/chapter/10.1007/978-3-030-30490-4_23). Yang Fan, Jungang Xu, Yingfei Sun, **Yiyu Wang**. _Proceeding of International Conference on Artificial Neural Networks (ICANN)_, 2019
