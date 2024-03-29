@@ -29,11 +29,13 @@ redirect_from:
   <!-- 这里将会插入另一个repo的publications.md内容 -->
 </div>
 
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 <script>
 fetch('https://raw.githubusercontent.com/curya-wangyiyu/curya-wangyiyu.github.io/main/_pages/includes/publications.md')
   .then(response => response.text())
   .then(text => {
-    document.getElementById('publications').innerHTML = text;
+    const md_text = marked(text)
+    document.getElementById('publications').innerHTML = md_text;
   });
 </script>
 
