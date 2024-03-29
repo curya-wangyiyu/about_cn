@@ -25,7 +25,6 @@ redirect_from:
 {% include_relative includes/news.md %}
 
 <span class='anchor' id='-publications'></span>
-<!-- {% include_relative includes/publications.md %} -->
 <div id="publications">
   <!-- 这里将会插入另一个repo的publications.md内容 -->
 </div>
