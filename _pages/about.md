@@ -15,6 +15,8 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+{% assign publications_url = "https://raw.githubusercontent.com/curya-wangyiyu/curya-wangyiyu.github.io/main/_pages/" | append: "/" | append: "includes/publications.md" %}
+
 <span class='anchor' id='about-me'></span>
 {% include_relative includes/intro.md %}
 
@@ -25,7 +27,7 @@ redirect_from:
 {% include_relative includes/news.md %}
 
 <span class='anchor' id='-publications'></span>
-![](https://raw.githubusercontent.com/curya-wangyiyu/curya-wangyiyu.github.io/main/_pages/includes/publications.md)
+{% include publications_url%}
 
 <span class='anchor' id='-internships'></span>
 {% include_relative includes/internships.md %}
