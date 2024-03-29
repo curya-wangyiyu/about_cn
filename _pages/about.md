@@ -34,8 +34,10 @@ redirect_from:
 fetch('https://raw.githubusercontent.com/curya-wangyiyu/curya-wangyiyu.github.io/main/_pages/includes/publications.md')
   .then(response => response.text())
   .then(text => {
-    const md_text = marked(text)
-    document.getElementById('publications').innerHTML = md_text;
+    // 使用 marked.js 解析 Markdown
+    const html = marked(text);
+    // 将解析后的 HTML 插入到页面中
+    document.getElementById('publications').innerHTML = html;
   });
 </script>
 
