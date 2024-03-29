@@ -25,21 +25,7 @@ redirect_from:
 {% include_relative includes/news.md %}
 
 <span class='anchor' id='-publications'></span>
-<div id="publications">
-  <!-- 这里将会插入另一个repo的publications.md内容 -->
-</div>
-
-<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-<script>
-fetch('https://raw.githubusercontent.com/curya-wangyiyu/curya-wangyiyu.github.io/main/_pages/includes/publications.md')
-  .then(response => response.text())
-  .then(text => {
-    // 使用 marked.js 解析 Markdown
-    const html = marked(text);
-    // 将解析后的 HTML 插入到页面中
-    document.getElementById('publications').innerHTML = html;
-  });
-</script>
+![](https://raw.githubusercontent.com/curya-wangyiyu/curya-wangyiyu.github.io/main/_pages/includes/publications.md)
 
 <span class='anchor' id='-internships'></span>
 {% include_relative includes/internships.md %}
