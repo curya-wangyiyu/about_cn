@@ -6,7 +6,7 @@
 
 - ``IJCNN`` [CLIP-Driven Low-Cost Image Captioning](). **Yiyu Wang**, Jungang Xu, Yingfei Sun. _Proceedings of International Joint Conference on Neural Networks (IJCNN)_, 2024
 
-- ``KSEM`` [Improving Image Captioning with Image Concepts of Words](). **Yiyu Wang**, Xunzhi Xiang (共一), Kun Jing, Jungang Xu, Yingfei Sun. _Proceedings of International Conference on Knowledge Science, Engineering and Management (KSEM)_, 2024
+- ``KSEM`` [Improving Image Captioning with Image Concepts of Words](https://link.springer.com/chapter/10.1007/978-981-97-5495-3_27). **Yiyu Wang**, Xunzhi Xiang (共一), Kun Jing, Jungang Xu, Yingfei Sun. _Proceedings of International Conference on Knowledge Science, Engineering and Management (KSEM)_, 2024
 
 - ``ArXiv`` [Text Data-Centric Image Captioning with Interactive Prompts](https://arxiv.org/abs/2403.19193). **Yiyu Wang**, Hao Luo, Jungang Xu, Yingfei Sun, Fan Wang. _arXiv preprint: abs/2403.19193_, 2024
 
