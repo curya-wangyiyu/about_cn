@@ -2,6 +2,8 @@
 
 ## 🎉 Main Contributions
 
+- ``ArXiv`` [ComfyUI-R1: Exploring Reasoning Models for Workflow Generation](https://arxiv.org/abs/2506.09790). Zhenran Xu, **Yiyu Wang**, Xue Yang, Longyue Wang, Weihua Luo, Kaifu Zhang, Baotian Hu, Min Zhang. _arXiv preprint: abs/2506.09790_, 2025
+
 - ``ACL demo`` [ComfyUI-Copilot: An Intelligent Assistant for Automated Workflow Development](https://www.arxiv.org/abs/2506.05010). Zhenran Xu, Xue Yang, **Yiyu Wang**, Qingli Hu, Zijiao Wu, Baotian Hu, Longyue Wang, Weihua Luo, Kaifu Zhang. _Proceedings of Annual Meeting of the Association for Computational Linguistics: System Demonstrations (ACL-Demo)_, 2025 &nbsp; [![](https://img.shields.io/github/stars/AIDC-AI/ComfyUI-Copilot?style=social&label=Stars)](https://github.com/AIDC-AI/ComfyUI-Copilot)
 
 - ``IJCNN`` [CLIP-Driven Low-Cost Image Captioning](https://ieeexplore.ieee.org/abstract/document/10650602). **Yiyu Wang**, Jungang Xu, Yingfei Sun. _Proceedings of International Joint Conference on Neural Networks (IJCNN)_, 2024
