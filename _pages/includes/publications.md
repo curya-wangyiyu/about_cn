@@ -16,10 +16,11 @@
 
 - ``Neurocomputing`` [A Visual Persistence Model for Image Captioning](https://www.sciencedirect.com/science/article/pii/S0925231221014922?via%3Dihub). **Yiyu Wang**, Jungang Xu, Yingfei Sun. _Neurocomputing_, 2022
 
-
 - ``ArXiv`` [Image Captioning based on Deep Learning Methods: A Survey](https://arxiv.org/abs/1905.08110). **Yiyu Wang**, Jungang Xu, Yingfei Sun, Ben He. _arXiv preprint: abs/1905.08110_, 2019
 
 ## 🤝 Co-authored Works
+
+- ``Neurocomputing`` [Zero-Shot Neural Architecture Search with Weighted Response Correlation](https://arxiv.org/abs/2507.08841). Kun Jing, Luoyu Chen, Jungang Xu, Jianwei Tai, **Yiyu Wang**, Shuaimin Li. _Neurocomputing_, 2025
 
 - ``ACL main`` [A Unified Agentic Framework for Evaluating Conditional Image Generation](https://arxiv.org/abs/2504.07046). Jifang Wang, Xue Yang, Longyue Wang, Zhenran Xu, **Yiyu Wang**, Yaowei Wang, Weihua Luo, Kaifu Zhang, Baotian Hu, Min Zhang. _Proceedings of Annual Meeting of the Association for Computational Linguistics (ACL)_, 2025
 
